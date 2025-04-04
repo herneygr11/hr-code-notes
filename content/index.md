@@ -2,9 +2,13 @@
 title: 👋 ¡Hola! Soy Herney Ruiz
 draft: false
 ---
-## 🚀 Ingeniero de Software
+## 🚀 Software Engineer
 
-Soy un apasionado por la tecnología con experiencia en desarrollo backend, seguridad de aplicaciones y diseño de arquitecturas escalables. Me especializo en **Java (Spring Boot)** y **Go (Golang)**, con un enfoque en buenas prácticas, optimización de rendimiento y seguridad.
+Tecnólogo en Análisis y Desarrollo de Sistemas de Información, egresado de [**Servicio Nacional de Aprendizaje** SENA](https://www.sena.edu.co/).
+
+Soy un Software Engineer (backend) enfocado en construir software robusto, mantenible y de alta calidad. Me apasiona la programación, las buenas prácticas, el diseño limpio y el desarrollo guiado por pruebas automatizadas.
+
+Siempre en modo **aprendizaje**, siempre en búsqueda de la **mejora continua**.
 
 ---
 ### 🛠️ Tecnologías y Herramientas
