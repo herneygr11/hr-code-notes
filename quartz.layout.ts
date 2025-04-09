@@ -37,7 +37,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(
+      {
+        folderClickBehavior: "collapse",
+        folderDefaultState: "collapsed",
+        filterFn: (node) => {
+          return node.data?.tags?.includes("explorerexclude") !== true
+        }
+      }
+    ),
   ],
   right: [
     Component.Graph(),
